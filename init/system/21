@@ -1,1 +1,0 @@
-cat /etc/passwd | egrep ':[[:digit:]]{4}' | cut -d ':' -f1

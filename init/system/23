@@ -1,8 +1,0 @@
-Graphic:
-	- Log out session
-	- Enter login
-	- Enter password
-	- Click on Log In
-SSH:
-	- Ouvrir un terminal et ecrire la commande:
-		$ ssh username@localhost

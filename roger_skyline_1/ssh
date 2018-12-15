@@ -1,5 +1,0 @@
-mkdir ~/.ssh && cd ~/.ssh
-ssh-keygen -t rsa -b 4096 -C "aljacque@e2r6p2.42.fr" -q -N ""
-chmod 400 "~/.ssh/id_rsa.pub"
-ssh-copy-id server@10.0.2.0 -p 22
-scp -r -P 22 -p server@10.0.2.0:/home/oreo

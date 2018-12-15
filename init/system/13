@@ -1,5 +1,0 @@
-ps -aux
-
-#-a (autres) présente également les processus des  autres utilisateurs.
-#-u (utilisateur) présente le  nom  de  l'utilisateur  et l'heure de lancement.
-#-x affiche  les  processus  qui n'ont pas de terminal de contrôle.
