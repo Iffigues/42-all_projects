@@ -1,3 +1,21 @@
 [submodule "Libft-test"]
 	path = Libft-test
 	url = https://github.com/AlexJqm/42-libft.git
+[submodule "libft"]
+	path = libft
+	url = https://github.com/AlexJqm/42-libft.git
+[submodule "piscine_reloaded"]
+	path = piscine_reloaded
+	url = https://github.com/AlexJqm/42-piscine_reloaded.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/AlexJqm/42-get_next_line.git
+[submodule "fillit"]
+	path = fillit
+	url = https://github.com/AlexJqm/42-fillit.git
+[submodule "init"]
+	path = init
+	url = https://github.com/AlexJqm/42-init.git
+[submodule "roger_skyline_1"]
+	path = roger_skyline_1
+	url = https://github.com/AlexJqm/42-roger_skyline_1
