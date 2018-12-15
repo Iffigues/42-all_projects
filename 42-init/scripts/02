@@ -1,0 +1,2 @@
+pkill -u $USER
+userdel -fr $USER

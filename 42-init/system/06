@@ -1,0 +1,3 @@
+/etc/init.d/ssh restart
+#service ssh restart
+#systemctl restart ssh

@@ -1,0 +1,3 @@
+/etc/init.d/ssh status
+#service ssh status
+#systemctl status ssh
